@@ -1,4 +1,4 @@
-# todo app
+# React todo app
 #### A to do app. you can  
 #### -add to do
 #### -mark to do as completed
